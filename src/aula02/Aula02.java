@@ -9,6 +9,7 @@ public class Aula02 {
     // variavel float
         System.out.println("Variavel float:"+y);
     
+        
     
 
     
